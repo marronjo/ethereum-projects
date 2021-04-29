@@ -1,0 +1,41 @@
+
+Welcome to the next gen Digital Identity Platform
+This Platform leverages aspects of both IPFS and ETH Blockchain networks
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+
+Content Hash	QmR7XggHmrRATMWLDdVJKpw4G6Cm2C5Z2CdbwGJuyNJBeW
+File Path	test.txt
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+
+Content Hex	0x516d5237586767486d725241544d574c4464564a4b7077344736436d3243355a3243646277474a75794e4a426557
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+
+Successful Tx with hash:	0xf16496ca1d924272f18d0f4b90415cb5a2d7dac0fdd3d42dab16487f29b5d4bb
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+
+copy and paste line below into web browser to verify transaction:
+https://ropsten.etherscan.io/tx/0xf16496ca1d924272f18d0f4b90415cb5a2d7dac0fdd3d42dab16487f29b5d4bb
+
+  --end of output--
+
+NOTES:
+
+below was the contents of test.txt when tx.js was run.
+Please note this transaction cannot be repeated since it will be considered a duplicate transaction
+An error will be thrown
+A modified version of this text file will be needed, in order to run the code again!
+
+/*
+First Name: Joe
+Last Name: Bloggs
+Occupation: Financial Analyst
+DOB: 12/Jan/1978
+*/

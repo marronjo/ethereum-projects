@@ -1,0 +1,11 @@
+Digital Identity
+
+First Name: William
+Last Name: Gallagher
+Occupation: Journalist
+DOB: 15/Nov/1993
+
+Green Energy Profile
+
+Source: Solar Power
+Production: 1kW/day
